@@ -20,4 +20,4 @@
 
 ----------
 
-**[<font size=7> Chinar CSDN博客](http://blog.csdn.net/ChinarCSDN/article/details/79588171 "跳转到 Chinar 博客")**
+**[<font size=7> Chinar CSDN博客](http://www.chinar.fun "跳转到 Chinar 博客")**
